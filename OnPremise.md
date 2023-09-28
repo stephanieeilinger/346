@@ -1,6 +1,4 @@
-[comment]: <> (Tibor Blasko)
-[comment]: <> (27.09.2022)
-[comment]: <> (Schulübung)
+
 
 # On Premises
 
